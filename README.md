@@ -1,4 +1,4 @@
-# Predicting-Recipe-Site-Popularity
+# Recipe-Site-Popularity-Prediction
  
 ## Project Overview
 This project aims to classify recipes as either "High Traffic" or "Low Traffic" using machine learning. By leveraging Logistic Regression and Random Forest models, the goal is to optimize recipe selection for Tasty Bytes' homepage, driving user engagement and increasing subscriptions.
@@ -42,3 +42,12 @@ Two machine learning models were developed:
 - Prioritize high-impact categories like Vegetables and Potatoes for recipe recommendations.
 - Collect more data on underrepresented categories to improve model accuracy.
 - Continuously monitor and retrain the model with updated data.
+
+## Repository Contents
+The repository contains the following files:
+
+- `data/recipe_site_traffic_2212.csv`: The raw dataset used for this project.
+- `predicting_recipe_popularity.ipynb`: The Jupyter Notebook containing the code for data preprocessing, exploratory analysis, model training, and evaluation.
+- `Recipe-Popularity-Prediction-Report.pdf`: The final presentation summarizing the project, findings, and recommendations.
+
+These files collectively provide a comprehensive view of the project, from data analysis to actionable insights.
